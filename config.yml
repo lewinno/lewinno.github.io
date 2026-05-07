@@ -11,14 +11,13 @@ taxonomies:
     tag: tags
 
 menu:
-    main:
-        
-        - name: Research
-          url: /research/
-          weight: 2
-        - name: CV
-          url: /cv/CV_Nolden.pdf
-          weight: 3
+  main:
+    - name: Research
+      url: https://lewinno.github.io/research/
+      weight: 2
+    - name: CV
+      url: https://lewinno.github.io/cv/CV_Nolden.pdf
+      weight: 3
         
 
 params:
@@ -53,10 +52,10 @@ params:
           imageWidth: 220
           imageHeight: 220
           buttons:
-            - name: Research
-              url: /research/
-            - name: CV
-              url: /cv/CV_Nolden.pdf
+          - name: Research
+          url: https://lewinno.github.io/research/
+          - name: CV
+          url: https://lewinno.github.io/cv/CV_Nolden.pdf
 
     socialIcons:
         - name: Email
