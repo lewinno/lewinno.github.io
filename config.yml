@@ -1,89 +1,103 @@
-baseURL: "https://lewinno.github.io/" 
+baseURL: "https://lewinno.github.io/"
 title: Lewin Nolden
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+
 pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
   main:
     - name: Research
-      url: https://lewinno.github.io/research/
+      url: /research/
       weight: 2
+
     - name: CV
-      url: https://lewinno.github.io/cv/CV_Nolden.pdf
+      url: /cv/CV_Nolden.pdf
       weight: 3
-        
 
 params:
-    description: ""
-    author: Lewin Nolden
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Lewin Nolden
-          subtitle: "I am a first year PhD student at the University of Oxford under the supervision of *[Barbara Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)* and *[Johannes Abeler](https://sites.google.com/site/johannesabeler/)*. I work on both applied and macro labour economics as well as on policy evaluations. Previously, I have been a Pre-Doctoral researcher at CREST/IPP and an MRes student at SciencesPo Paris."
-          imageUrl: "picture.png"
-          imageWidth: 220
-          imageHeight: 220
-          buttons:
-          - name: Research
-          url: https://lewinno.github.io/research/
-          - name: CV
-          url: https://lewinno.github.io/cv/CV_Nolden.pdf
+  description: ""
+  author: Lewin Nolden
 
-    socialIcons:
-        - name: Email
-          url: mailto:lewin.nolden@economics.ox.ac.uk
-        - name: GitHub
-          url: https://github.com/lewinno
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/lewin-nolden-a05a591b4/
-       
+  # googleAnalyticsID: "G-XXXXX"
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Lewin Nolden"
-      icon: favicon.ico
-      iconHeight: 18
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["books", "courses", "papers", "data"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+
+  profileMode:
+    enabled: true
+    title: Lewin Nolden
+
+    subtitle: "I am a first year PhD student at the University of Oxford under the supervision of *[Barbara Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)* and *[Johannes Abeler](https://sites.google.com/site/johannesabeler/)*. I work on both applied and macro labour economics as well as on policy evaluations. Previously, I have been a Pre-Doctoral researcher at CREST/IPP and an MRes student at SciencesPo Paris."
+
+    imageUrl: "picture.png"
+    imageWidth: 220
+    imageHeight: 220
+
+    buttons:
+      - name: Research
+        url: /research/
+
+      - name: CV
+        url: /cv/CV_Nolden.pdf
+
+  socialIcons:
+    - name: Email
+      url: mailto:lewin.nolden@economics.ox.ac.uk
+
+    - name: GitHub
+      url: https://github.com/lewinno
+
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/lewin-nolden-a05a591b4/
+
+  assets:
+    disableScrollBarStyle: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+
+  label:
+    text: "Lewin Nolden"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    guessSyntax: true
+    style: autumn
+
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
