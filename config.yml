@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Lewin Nolden
-          subtitle: "I am a first year PhD student at the University of Oxford under the supervision of *[Barbara Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)* and *[Johannes Abeler](https://sites.google.com/site/johannesabeler/)*. Previously, I have been a Pre-Doctoral researcher at CREST and an MRes student at SciencesPo Paris."
+          subtitle: "I am a first year PhD student at the University of Oxford under the supervision of *[Barbara Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)* and *[Johannes Abeler](https://sites.google.com/site/johannesabeler/)*."
           imageUrl: "picture.jpg"
           imageWidth: 220
           imageHeight: 220
