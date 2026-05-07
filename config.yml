@@ -14,7 +14,7 @@ menu:
     main:
         
         - name: Research
-          url: research/
+          url: /research/
           weight: 2
         - name: CV
           url: /cv/CV_Nolden.pdf
@@ -54,7 +54,7 @@ params:
           imageHeight: 220
           buttons:
             - name: Research
-              url: research/
+              url: /research/
             - name: CV
               url: /cv/CV_Nolden.pdf
 
