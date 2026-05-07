@@ -19,7 +19,7 @@ menu:
       weight: 2
 
     - name: CV
-      url: /cv/CV_Nolden.pdf
+      url: /cv/cv_nolden.pdf
       weight: 3
 
 params:
@@ -65,7 +65,7 @@ params:
         url: /research/
 
       - name: CV
-        url: /cv/CV_Nolden.pdf
+        url: /cv/cv_nolden.pdf
 
   socialIcons:
     - name: Email
