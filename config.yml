@@ -17,12 +17,12 @@ menu:
           url: research/
           weight: 2
         - name: CV
-          url: cv/
+          url: /cv/CV_Nolden.pdf
           weight: 3
         
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: ""
     author: Lewin Nolden
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -48,21 +48,23 @@ params:
     profileMode:
           enabled: true
           title: Lewin Nolden
-          subtitle: "I am a first year PhD student at the University of Oxford."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          subtitle: "I am a first year PhD student at the University of Oxford under the supervision of *[Barbara Petrongolo](https://sites.google.com/site/barbarapetrongolo/home)* and *[Johannes Abeler](https://sites.google.com/site/johannesabeler/)*. Previously, I have been a Pre-Doctoral researcher at CREST and an MRes student at SciencesPo Paris."
+          imageUrl: "picture.jpg"
+          imageWidth: 220
+          imageHeight: 220
           buttons:
             - name: Research
               url: research/
             - name: CV
-              url: cv/
+              url: /cv/CV_Nolden.pdf
 
     socialIcons:
         - name: Email
           url: mailto:lewin.nolden@economics.ox.ac.uk
         - name: GitHub
           url: https://github.com/lewinno
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/lewin-nolden-a05a591b4/
        
 
     assets:
