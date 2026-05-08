@@ -23,7 +23,7 @@ menu:
       weight: 3
 
 params:
-  description: ""
+  description: "Lewin Nolden is a PhD student in economics at the University of Oxford. His research interests are in labour economics, public economics, and policy evaluation."
   author: Lewin Nolden
 
   # googleAnalyticsID: "G-XXXXX"
