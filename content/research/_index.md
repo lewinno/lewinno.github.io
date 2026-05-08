@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-**[Separations on the Job-Ladder](/papers/Holzheu_Nolden.pdf)** with [Kerstin Holzheu](https://sites.google.com/view/kerstinholzheu/home) (Under Review)
+**[Separations on the Job-Ladder](/papers/Holzheu_Nolden.pdf)** with [Kerstin Holzheu](https://sites.google.com/view/kerstinholzheu/home) (under review)
 
 <details>
   <summary>Abstract</summary>
