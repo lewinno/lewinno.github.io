@@ -9,7 +9,7 @@ title: "Research"
 <details>
   <summary>Abstract</summary>
 
-  Using matched employer-employee data from Italy, Germany, and Austria, we document a U-shaped relationship between within-job wage changes and separations: workers experiencing both wage cuts and wage gains are more likely to leave their employer. The pattern disappears once wage changes are standardized within tenure groups, pointing to a compositional job-ladder mechanism. To interpret this fact, we develop and estimate a random-search model with worker and firm heterogeneity, learning, persistent match productivity, and on-the-job renegotiation. History-dependent learning drives heterogeneity in wage-change volatility, while renegotiation capital stabilizes wages as workers move up the ladder. Learning frictions reduce aggregate output by 1.3%.
+  We document a U-shaped relationship between within-job wage changes and separations in administrative data from Italy, Germany, and Austria. To interpret this relationship, we estimate a random-search model with worker and firm heterogeneity, learning, persistent match productivity, and wage renegotiation, using Italian data. For Italy, matching the U-shape attributes the decline in wage volatility primarily to learning and implies a 14.5-year half-life for match productivity. Imperfect information lowers output by 0.229 percent through misallocated mobility. Omitting the U-shape moments attributes the volatility decline to negotiation history, shortens the half-life to 3.5 years, and reduces the output loss to 0.073 percent.
 
 </details>
 
